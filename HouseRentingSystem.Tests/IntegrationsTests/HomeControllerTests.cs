@@ -14,7 +14,8 @@ namespace HouseRentingSystem.Tests.IntegrationsTests
         [Test]
         public void Error_ShouldReturnCorrectView()
         {
-            // Arrange: assign a valid status code to a variable
+            // Arrange: assign a valid status code to a variable 
+            // comment
             var statusCode = 500;
 
             // Act: invoke the controller method with valid data
