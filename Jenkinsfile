@@ -5,19 +5,19 @@ pipeline {
         stage('Restore') {
             steps {
                 echo 'Restoring NuGet packages...'
-                sh 'dotnet restore'
+                bat 'dotnet restore'
             }
         }
         stage('Build') {
             steps {
                 echo 'Building the project...'
-                sh 'dotnet build --no-restore --configuration Release'
+                bat 'dotnet build --no-restore --configuration Release'
             }
         }
         stage('Test') {
             steps {
                 echo 'Running tests...'
-                sh 'dotnet test --no-build --verbosity normal'
+                bat 'dotnet test --no-build --verbosity normal'
             }
         }
     }
