@@ -1,0 +1,12 @@
+C:\Users\Ilia\Desktop\House-Renting-System-App-main\HouseRentingSystem.Services\bin\Debug\net6.0\HouseRentingSystem.Services.deps.json
+C:\Users\Ilia\Desktop\House-Renting-System-App-main\HouseRentingSystem.Services\bin\Debug\net6.0\HouseRentingSystem.Services.runtimeconfig.json
+C:\Users\Ilia\Desktop\House-Renting-System-App-main\HouseRentingSystem.Services\bin\Debug\net6.0\HouseRentingSystem.Services.dll
+C:\Users\Ilia\Desktop\House-Renting-System-App-main\HouseRentingSystem.Services\bin\Debug\net6.0\HouseRentingSystem.Services.pdb
+C:\Users\Ilia\Desktop\House-Renting-System-App-main\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.csproj.AssemblyReference.cache
+C:\Users\Ilia\Desktop\House-Renting-System-App-main\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilia\Desktop\House-Renting-System-App-main\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.AssemblyInfoInputs.cache
+C:\Users\Ilia\Desktop\House-Renting-System-App-main\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.AssemblyInfo.cs
+C:\Users\Ilia\Desktop\House-Renting-System-App-main\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.csproj.CoreCompileInputs.cache
+C:\Users\Ilia\Desktop\House-Renting-System-App-main\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.dll
+C:\Users\Ilia\Desktop\House-Renting-System-App-main\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.pdb
+C:\Users\Ilia\Desktop\House-Renting-System-App-main\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.genruntimeconfig.cache
